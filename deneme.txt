@@ -1,7 +1,4 @@
 deneme
 
-<<<<<<< .merge_file_a01228
-deneme13
-=======
+
 deneme14
->>>>>>> .merge_file_a04568
