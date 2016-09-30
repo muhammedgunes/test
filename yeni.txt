@@ -10,3 +10,4 @@ public boolean isWebAnnotationMaster2new(){
     }
 new2
 new3
+master1
