@@ -1,0 +1,10 @@
+public boolean isWebAnnotation2(){
+        switch (componentAnnotationTypeId){
+            case COMPONENT_TYPE_ID_HARÝTA:
+                return false;
+            case COMPONENT_TYPE_ID_WEBLINK:
+                return false;
+            default:
+                return true;
+        }
+    }
