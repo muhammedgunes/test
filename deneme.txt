@@ -1,4 +1,4 @@
-public boolean isWebAnnotation2(){
+public boolean isWebAnnotationMaster(){
         switch (componentAnnotationTypeId){
             case COMPONENT_TYPE_ID_HARÝTA:
                 return false;
