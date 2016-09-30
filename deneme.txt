@@ -1,6 +1,10 @@
-deneme
-
-
-msdasdasdsadasm
-asdasd
-sad
+public boolean isWebAnnotationBirinci(){
+        switch (componentAnnotationTypeId){
+            case COMPONENT_TYPE_ID_HARÝTA:
+                return false;
+            case COMPONENT_TYPE_ID_WEBLINK:
+                return false;
+            default:
+                return true;
+        }
+    }
