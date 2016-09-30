@@ -8,3 +8,4 @@ public boolean isWebAnnotationMaster2new(){
                 return true;
         }
     }
+new2
